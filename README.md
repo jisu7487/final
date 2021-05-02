@@ -32,5 +32,3 @@ cd frontend
 npm run build
 ```
 
-# Reference
-https://vlee.kr/4155
